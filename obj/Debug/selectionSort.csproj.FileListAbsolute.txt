@@ -1,0 +1,10 @@
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\bin\Debug\selectionSort.exe.config
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\bin\Debug\selectionSort.exe
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\bin\Debug\selectionSort.pdb
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\obj\Debug\selectionSort.csprojAssemblyReference.cache
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\obj\Debug\selectionSort.Form1.resources
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\obj\Debug\selectionSort.Properties.Resources.resources
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\obj\Debug\selectionSort.csproj.GenerateResource.cache
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\obj\Debug\selectionSort.csproj.CoreCompileInputs.cache
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\obj\Debug\selectionSort.exe
+C:\Users\ikara\Desktop\algoritmalar\siralama\selectionSort\selectionSort\obj\Debug\selectionSort.pdb
